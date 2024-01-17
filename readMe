@@ -1,1 +1,7 @@
-...
+Run the code.ipynb file which has the finetuned model of Whishper on the given data set domain.
+
+Make sure to have a train folder in which you have the .wawv file and also a file with prompts and phrases.
+
+
+
+
