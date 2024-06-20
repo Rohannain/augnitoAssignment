@@ -2,6 +2,8 @@ Run the code.ipynb file which has the finetuned model of Whishper on the given d
 
 Make sure to have a train folder in which you have the .wawv file and also a file with prompts and phrases.
 
+The code is implemeneted and the finetuned model of Whisper is there as of now
+
 
 
 
